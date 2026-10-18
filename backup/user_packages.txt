@@ -1,0 +1,12 @@
+package:/data/app/~~lPIrpHrFTQRiuo8IpwoFIQ==/com.formulaone.production-8g6GhGHS9_lbdQQpy48fMQ==/base.apk=com.formulaone.production
+package:/data/app/~~v-aKDPiUlIJg0u6SqhtNhQ==/com.neoyantra.airplaymirror.airplaymirrorappdemo-vzF8nMqzxbpUtvkbQ9kOYA==/base.apk=com.neoyantra.airplaymirror.airplaymirrorappdemo
+package:/system/preloadapp/JioPages/JioPages.apk=com.jio.web.androidtv
+package:/system/preloadapp/SpotifyTV/SpotifyTV.apk=com.spotify.tv.android
+package:/data/app/~~EP-inUuexCc_MCVRjIYM1w==/com.sonyliv-EWzNY-GZ1QDl21lw6BktLQ==/base.apk=com.sonyliv
+package:/system/preloadapp/LionsgatePlay/LionsgatePlay.apk=com.lionsgateplay.videoapp
+package:/data/app/~~4-wSvf2PL8jr_zsaNiqE4g==/com.mubi-XQBRPSCE9WGNEWKs4kn1uw==/base.apk=com.mubi
+package:/data/app/~~s7Uo2Do0m33_LU9HRrXsJg==/com.graymatrix.did-ukQF5AtHGm-O5B5SRMDDaw==/base.apk=com.graymatrix.did
+package:/data/app/~~xr-dLdhrYBYfVDbbRqM0BA==/com.fancode.tv-PNjbc98-NdCbDtX7tmR3Lg==/base.apk=com.fancode.tv
+package:/data/app/~~evGUg2wmEJngIbioaHguzg==/com.jio.media.stb.ondemand-VQ2GQ7bKxhdwaBLM5y_Ozw==/base.apk=com.jio.media.stb.ondemand
+package:/system/preloadapp/OptvUserGuide/OptvUserGuide.apk=com.oneplus.tv.userguide
+package:/system/preloadapp/JioGame/JioGame.apk=com.jiostb.jiogames

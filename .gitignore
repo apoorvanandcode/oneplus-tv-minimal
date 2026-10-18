@@ -1,0 +1,18 @@
+# Private to this machine
+CLAUDE.md
+.claude/
+
+# Copyrighted app APKs pulled from the TV (about 1 GB)
+backup/apks/
+
+# Settings dumps contain device IDs and Wi-Fi details
+backup/settings/
+
+# Launcher signing key: never publish
+*.keystore
+*.jks
+
+# Build output
+launcher/build/
+
+.DS_Store
